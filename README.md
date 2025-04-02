@@ -17,7 +17,6 @@ ImageText is a web application that allows users to upload images and extract te
 
 ## Demo
 
-## Demo
 
 ![ImageText Demo](./demo.png)
 
